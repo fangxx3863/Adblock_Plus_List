@@ -37,6 +37,3 @@ ssh进入路由器
 
 ![FA8FC319829E150ABFCBC06790D5034C](https://user-images.githubusercontent.com/48589001/140941431-63667503-442a-4241-bd72-aa47feabf1ee.png)
 
-# 恢复原始文件
-
-将上述教程中的命令修改为`curl https://cdn.jsdelivr.net/gh/fangxx3863/overwall_list/BackToStore.sh|sh`执行即可
